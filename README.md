@@ -1,4 +1,4 @@
 # [Build, Measure, and Machine Learn with Angular](https://www.ng-conf.org/sessions/build-measure-machine-learn-angular/)
 
-## Abstract
+### Abstract
 This talk takes the audience on a journey from building a basic feature toggling infrastructure in Angular 2, to running simple A/B tests to support a build-measure-learn process, to personalized presentations based on human derived rules and, finally, to using machine learning algorithms to make conversion optimizing decisions. As well as providing insights into how feature toggles support continuous deployment and experiments (a useful skill in today’s day-to-day development), the audience will get a first hand look at how neural networks can automate decisions – a cute tool now, but one day similar technologies will replace much of what programmers do today.
